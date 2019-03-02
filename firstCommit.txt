@@ -1,3 +1,4 @@
 first add file for learning git;
 now this is second time to up git;
 forget add webhooks..
+cant hooks
