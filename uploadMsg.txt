@@ -1,1 +1,2 @@
 dwc/android/debug/7
+dwc/android/release/1
