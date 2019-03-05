@@ -1,2 +1,2 @@
-dwc/android/debug/7
+dwc/android/debug/8
 dwc/android/release/1
